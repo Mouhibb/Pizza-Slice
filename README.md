@@ -24,7 +24,6 @@
 ✅ Firebase
 ✅ Styled components
 ➡ Responsive design
-➡ Dark Mode
 
 ## Install
 
